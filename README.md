@@ -50,11 +50,20 @@ jupyter nbconvert --to notebook --execute "Data Analysis in Hospitality Domain.i
 
 3. **Data Visualization:**
    - Created various graphs to show:
-     - **Contribution of each booking platform to total bookings.** ![Screenshot 2024-10-12 014218](https://github.com/user-attachments/assets/92d90d24-9fc8-4b4d-8586-bc5bfe6bf3bc)
+     - **Contribution of each booking platform to total bookings.**
+       <div align="center">
+      ![Screenshot 2024-10-12 014218](https://github.com/user-attachments/assets/92d90d24-9fc8-4b4d-8586-bc5bfe6bf3bc)
+       </div>
 
-     - Number of hotels per city.![Screenshot 2024-10-12 014232](https://github.com/user-attachments/assets/7d55c3a4-81ff-4bc1-8e61-ee0d7db8db00)
+     - Number of hotels per city.
+       <div align="center">
+      ![Screenshot 2024-10-12 014232](https://github.com/user-attachments/assets/7d55c3a4-81ff-4bc1-8e61-ee0d7db8db00)
+       </div>
 
-     - **Revenue realized per booking platform.**![Screenshot 2024-10-12 014247](https://github.com/user-attachments/assets/b27cc940-bc67-4b54-8f3a-71ed9f260e7d)
+     - **Revenue realized per booking platform.**
+       <div align="center">
+      ![Screenshot 2024-10-12 014247](https://github.com/user-attachments/assets/b27cc940-bc67-4b54-8f3a-71ed9f260e7d)
+       </div>
 
 
 4. **Data Transformation:**
