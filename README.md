@@ -18,6 +18,22 @@ The analysis is based on the following datasets:
 - **fact_bookings**: `booking_id`, `property_id`, `booking_date`, `check_in_date`, `checkout_date`, `no_guests`, `room_category`, `booking_platform`, `ratings_given`, `booking_status`, `revenue_generated`, `revenue_realized`
 - **new_data_august**: `property_id`, `property_name`, `category`, `city`, `room_category`, `room_class`, `check_in_date`, `mmm yy`, `week no`, `day_type`, `successful_bookings`, `capacity`, `occ%`
 
+## Installation
+To run this project, clone the repository and install the required libraries:
+
+```bash
+git clone https://github.com/shellynagar27/Hospitality-Domain-Data-Analysis-Project.git
+cd Hospitality-Domain-Data-Analysis-Project
+pip install -r requirements.txt
+```
+
+## Usage
+To execute the data analysis, navigate to the directory where your notebook is located and run the following command:
+```bash
+cd path/to/your/directory
+jupyter nbconvert --to notebook --execute "Data Analysis in Hospitality Domain.ipynb"
+```
+
 ## Steps Taken:
 
 1. **Exploratory Data Analysis (EDA):**
@@ -58,3 +74,9 @@ The analysis is based on the following datasets:
 - **Data transformation, exploration, and cleaning** using the Pandas library.
 - Gained insights into hospitality domain-specific terms such as **occ%**.
 - Developed data visualization skills using **Matplotlib**.
+
+## Acknowledgements
+- Special thanks to Dhaval Patel sir (CodeBasics) for his excellent tutorial that guided me step by step throughout this project. 
+
+## Contact Information
+For any inquiries, please reach out to [Shelly Nagar](mailto:shellynagar75@gmail.com).
