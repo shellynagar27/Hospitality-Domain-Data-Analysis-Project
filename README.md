@@ -1,5 +1,6 @@
 # Hospitality-Domain-Data-Analysis-Project
-I built this project by following [Python: Beginner to Advanced For Data Professionals](https://codebasics.io/courses/python-beginner-to-advanced) by [CodeBasics](https://codebasics.io/)
+I built this project by following [Python: Beginner to Advanced For Data Professionals](https://codebasics.io/courses/python-beginner-to-advanced) by [CodeBasics](https://codebasics.io/) </br>
+[Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7251654377944367104/)
 
 ## About the Company:
 **AtliQ Grands** (Imaginary Company) is a hotel chain operating in Delhi, Mumbai, and Hyderabad with over 20 years in business. The company provides various platforms for hotel bookings, including the official AtliQ Grands website.
